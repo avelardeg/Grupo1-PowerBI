@@ -1,5 +1,7 @@
 PORTAFOLIO GRUPO 1
 BUSINESS CASE
+![image](https://github.com/user-attachments/assets/d0e081be-4ac3-43a4-9487-8c5e3d061157)
+
 INDICADOR
 DASHBOARD
 REPORTE DE INDICADOR
