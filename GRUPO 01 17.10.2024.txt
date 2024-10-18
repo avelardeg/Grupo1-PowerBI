@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Final - Power BI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #000;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #003366;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            background-color: #0073e6;
+            color: white;
+            padding: 15px 30px;
+            margin: 10px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #005bb5;
+        }
+        .section {
+            margin-top: 50px;
+        }
+        img {
+            width: 80%;
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Proyecto Final - Power BI</h1>
+</header>
+
+<main>
+    <h2>Explora las Secciones:</h2>
+    
+    <!-- Botones de Navegación -->
+    <a href="#GRUPO 01" class="button">Inicio </a>
+    <a href="#Caso de Negocio" class="button">Caso de Negocio</a>
+    <a href="#indicadores" class="button">Indicadores</a>
+    <a href="#reporte" class="button">Reporte</a>
+    <a href="#pregunta1" class="button">Pregunta 1</a>
+    <a href="#pregunta2" class="button">Pregunta 2</a>
+    <a href="#pregunta3" class="button">Pregunta 3</a>
+    <a href="#pregunta4" class="button">Pregunta 4</a>
+    <a href="#pregunta5" class="button">Pregunta 5</a>
+    <a href="#pregunta6" class="button">Pregunta 6</a>
+    <a href="#pregunta7" class="button">Pregunta 7</a>
+    <a href="#pregunta8" class="button">Pregunta 8</a>
+    <a href="#pregunta9" class="button">Pregunta 9</a>
+    <a href="#pregunta10" class="button">Pregunta 10</a>
+
+    <!-- Secciones con las imágenes de cada página -->
+    <section id="GRUPO 01" class="section">
+        <h3>GRUPO 01 </h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0001.jpg" alt="Inicio">
+    </section>
+
+    <section id="Caso de Negocio" class="section">
+        <h3>Caso de Negocio</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0002.jpeg" alt="Caso de Negocio">
+    </section>
+
+    <section id="indicadores" class="section">
+        <h3>Indicadores</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0003.jpg" alt="indicadores">
+    </section>
+
+    <section id="reporte" class="section">
+        <h3>Reporte</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0004.jpg" alt="reporte">
+    </section>
+
+    <section id="pregunta1" class="section">
+        <h3>Pregunta 1</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0005.jpeg" alt="Pregunta 1">
+    </section>
+
+    <section id="pregunta2" class="section">
+        <h3>Pregunta 2</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0006.png" alt="Pregunta 2">
+    </section>
+
+    <section id="pregunta3" class="section">
+        <h3>Pregunta 3</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0007.jpg" alt="Pregunta 3">
+    </section>
+
+    <section id="pregunta4" class="section">
+        <h3>Pregunta 4</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0008.jpg" alt="Pregunta 4">
+    </section>
+
+    <section id="pregunta5" class="section">
+        <h3>Pregunta 5</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0009.jpg" alt="Pregunta 5">
+    </section>
+
+    <section id="pregunta6" class="section">
+        <h3>Pregunta 6</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0010.jpg" alt="Pregunta 6">
+    </section>
+
+    <section id="pregunta7" class="section">
+        <h3>Pregunta 7</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0011.jpg" alt="Pregunta 7">
+    </section>
+
+    <section id="pregunta8" class="section">
+        <h3>Pregunta 8</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0012.jpeg" alt="Pregunta 8">
+    </section>
+
+    <section id="pregunta9" class="section">
+        <h3>Pregunta 9</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0013.jpg" alt="Pregunta 9">
+    </section>
+    
+    <section id="pregunta10" class="section">
+        <h3>Pregunta 10</h3>
+        <img src="images/PROYECTO FINAL - GRUPO1 F_page-0014.jpg" alt="Pregunta 10">
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Grupo 1 - Proyecto Final</p>
+</footer>
+
+</body>
+</html>
